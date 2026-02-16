@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,10&height=280&section=header&text=Christian%20Hadi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Fullstack%20Developer%20|%20AI%20Enthusiast&descAlignY=52&descAlign=62&fontColor=ffffff&descColor=dddddd">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f5f5f5&height=280&section=header&text=Christian%20Hadi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Fullstack%20Developer%20|%20AI%20Enthusiast&descAlignY=52&descAlign=62&fontColor=333333&descColor=666666">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Christian%20Hadi&fontColor=ffffff" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,10&height=280&section=header&text=Christian%20Hadi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descAlign=62&fontColor=ffffff&descColor=dddddd">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f5f5f5&height=280&section=header&text=Christian%20Hadi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descAlign=62&fontColor=333333&descColor=666666">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Christian%20Hadi&fontSize=70&fontColor=ffffff" width="100%">
   </picture>
 
   <p align="center">
@@ -63,9 +63,17 @@
 
 <h2 id="-stats">📊 Development Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chris-taa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-taa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
-  <br/><br/>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Chris-taa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-taa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <br/>
   <img src="https://raw.githubusercontent.com/Chris-taa/Chris-taa/main/profile-summary-card-output/default/1-repos-per-language.svg" height="180" />
   <img src="https://raw.githubusercontent.com/Chris-taa/Chris-taa/main/profile-summary-card-output/default/2-most-commit-language.svg" height="180" />
 </div>
