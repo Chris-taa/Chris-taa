@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Michael%20Effendy&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20PCD%20|%20Web%20Programming&descAlignY=55&descAlign=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Christa&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20PCD%20|%20Web%20Programming&descAlignY=55&descAlign=60" width="100%" />
 
   <a href="#-about-me"><b>👤 ABOUT ME</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-projects"><b>🚀 PROJECTS</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -11,12 +11,12 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h3>Hi there! I'm @OrionSeeker 👋</h3>
+      <h3>Hi there! I'm @christa 👋</h3>
       <p>I'm an Informatics student passionate about <b>Machine Learning</b> and <b>Digital Image Processing</b>.</p>
       <ul>
         <li>🌱 Currently learning: <b>Machine Learning, PCD, and Web Programming</b></li>
         <li>💻 Tech Stack: Java, Python, HTML/CSS</li>
-        <li>⚡ Fun fact: Love exploring new tech and space (Orion!)</li>
+        <li>⚡ Fun fact: I love building cool things with code!</li>
       </ul>
     </td>
     <td width="30%" align="center">
@@ -51,8 +51,8 @@
 
 <h2 id="-stats">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github.com/OrionSeeker/OrionSeeker/blob/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="100%" />
   <br/>
-  <img src="https://github.com/OrionSeeker/OrionSeeker/blob/main/profile-summary-card-output/default/1-repos-per-language.svg" height="180" />
-  <img src="https://github.com/OrionSeeker/OrionSeeker/blob/main/profile-summary-card-output/default/2-most-commit-language.svg" height="180" />
+  <img src="https://github.com/christa/christa/blob/main/profile-summary-card-output/default/1-repos-per-language.svg" height="180" />
+  <img src="https://github.com/christa/christa/blob/main/profile-summary-card-output/default/2-most-commit-language.svg" height="180" />
 </div>
