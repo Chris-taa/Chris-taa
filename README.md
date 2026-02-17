@@ -3,6 +3,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,10&height=280&section=header&text=Christian%20Hadi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Fullstack%20Developer%20|%20AI%20Enthusiast&descAlignY=52&descAlign=62">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f5f5f5&height=280&section=header&text=Christian%20Hadi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Fullstack%20Developer%20|%20AI%20Enthusiast&descAlignY=52&descAlign=62&fontColor=333&descColor=666">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Christian%20Hadi" width="100%">
+  <p> Chris-taa </p>
   </picture>
 
   <p align="center">
