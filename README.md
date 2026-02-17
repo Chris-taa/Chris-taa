@@ -58,6 +58,16 @@
       Neural network implementation for high-precision data classification.
     </td>
   </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <br/>
+      <h4>🌐 Web Development</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJic2ZpZzJndm16em16Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Jm9mZj01MCZ0PWc/3o7TKMGpxVf7U6p95u/giphy.gif" width="60%" style="border-radius:10px">
+      <br/><br/>
+      <b>Fullstack Solutions</b><br/>
+      Building scalable web applications with modern frameworks and responsive design.
+    </td>
+  </tr>
 </table>
 
 <br/>
